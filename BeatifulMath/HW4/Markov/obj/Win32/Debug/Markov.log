@@ -1,0 +1,13 @@
+﻿  ofApp.cpp
+d:\hslu\beatifulmath\of_v0.10.1_vs2017_release\apps\myapps\markov\src\ofapp.cpp(102): warning C4553: '==': result of expression not used; did you intend '='?
+d:\hslu\beatifulmath\of_v0.10.1_vs2017_release\apps\myapps\markov\src\ofapp.cpp(121): warning C4018: '<': signed/unsigned mismatch
+d:\hslu\beatifulmath\of_v0.10.1_vs2017_release\apps\myapps\markov\src\ofapp.cpp(80): warning C4715: 'ofApp::randomSatz': not all control paths return a value
+d:\hslu\beatifulmath\of_v0.10.1_vs2017_release\apps\myapps\markov\src\ofapp.cpp(115): warning C4715: 'ofApp::increasingWordCount': not all control paths return a value
+  Markov.vcxproj -> D:\HSLU\BeatifulMath\of_v0.10.1_vs2017_release\apps\myApps\Markov\bin\Markov_debug.exe
+  
+  	                   2	D:\HSLU\BeatifulMath\of_v0.10.1_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA Datei		 6018560	D:\HSLU\BeatifulMath\of_v0.10.1_vs2017_release\apps\myApps\Markov\bin\FreeImage.dll
+  
+  	                   1	D:\HSLU\BeatifulMath\of_v0.10.1_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA Datei		 1266176	D:\HSLU\BeatifulMath\of_v0.10.1_vs2017_release\apps\myApps\Markov\bin\fmodex.dll
+  	  *EXTRA Datei		 1312768	D:\HSLU\BeatifulMath\of_v0.10.1_vs2017_release\apps\myApps\Markov\bin\fmodexL.dll
